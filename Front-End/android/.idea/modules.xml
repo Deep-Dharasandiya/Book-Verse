@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bookverse.iml" filepath="$PROJECT_DIR$/.idea/modules/bookverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bookverse.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bookverse.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1628136591/bookverse.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1628136591/bookverse.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/320448536/bookverse.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/320448536/bookverse.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/827959566/bookverse.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/827959566/bookverse.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1590289224/bookverse.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1590289224/bookverse.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1751561719/bookverse.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1751561719/bookverse.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1146605263/bookverse.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1146605263/bookverse.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/185714394/bookverse.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/185714394/bookverse.react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>

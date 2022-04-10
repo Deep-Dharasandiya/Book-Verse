@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "287166410631",
+    "project_id": "bookverse-c900b",
+    "storage_bucket": "bookverse-c900b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287166410631:android:c57e42527fda2d2fdbed22",
+        "android_client_info": {
+          "package_name": "com.bookverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287166410631-c47o0arhtc0osljs470vais3bml1h4a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookverse",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "287166410631-iihp4hedte8h8drufueu60u9ccnba42o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookverse",
+            "certificate_hash": "b00c9f9f8593e72ad042cb463cdfc4834aae2e3e"
+          }
+        },
+        {
+          "client_id": "287166410631-9en1bv438odtcnu1k5phfpde5s3ic1or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tTlhY_7T0aOjwOPJuyQ71rF2izPSn-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287166410631-9en1bv438odtcnu1k5phfpde5s3ic1or.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287166410631-gaqi6jfjqm847nv67echf84rbtf74sae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.bookverse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
